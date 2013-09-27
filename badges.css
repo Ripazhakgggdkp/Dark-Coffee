@@ -1,5 +1,4 @@
 .game_badge_item, .game_badge_item2 {
-	padding-left: 5px;
 	background-color: #333535; ! important;
 	transition: background-color .10s ease-in;
 	-moz-transition: background-color .10s ease-in;
