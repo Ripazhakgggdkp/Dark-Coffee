@@ -1,5 +1,5 @@
-@import url('http://rawgithub.com/Ripazhakgggdkp/Dark-Coffee/master/global.css');
-@import url('http://rawgithub.com/Ripazhakgggdkp/Dark-Coffee/master/game.css');
-@import url('http://rawgithub.com/Ripazhakgggdkp/Dark-Coffee/master/frontPage.css');
-@import url('http://rawgithub.com/Ripazhakgggdkp/Dark-Coffee/master/forums.css');
-@import url('http://rawgithub.com/Ripazhakgggdkp/Dark-Coffee/master/badges.css');
+@import ('global.css');
+@import ('game.css');
+@import ('frontPage.css');
+@import ('forums.css');
+@import ('badges.css');
