@@ -1,0 +1,22 @@
+/*------GAME------*/
+
+.game_comment {
+	border: none !important;
+}
+
+.game_comment_header td {
+    padding: 0px 5px 0px 5px !important;
+}
+  
+.game_comment_text td {
+	background-color:#222525 !important;
+    padding: 0px 5px 0px 5px !important;
+}
+
+.game_comment_reply {
+	background-color:#222525 !important; 
+}
+
+.game_comment_mod {
+	background-color:#333535 !important;
+}
