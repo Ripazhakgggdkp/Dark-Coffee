@@ -3,7 +3,10 @@ Dark-Coffee
 
 Saving FtB from communism
 
-To install with Stylish: Manage installed styles -> Write new style, then add this line:
+To install with Stylish\
+--------
+
+Manage installed styles -> Write new style, then add this line:
 
 @import url('http://rawgithub.com/Ripazhakgggdkp/Dark-Coffee/master/DarkCoffee.css');
 
