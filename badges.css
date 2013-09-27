@@ -10,5 +10,5 @@
 	-webkit-transition: background-color .10s ease-in;
 }
 .game_badge_item:hover, .game_badge_item2:hover {
-    background-color: #FFF !important;
+    background-color: #1D1F1F !important;
 } 
