@@ -1,5 +1,4 @@
 /*------FRONT PAGE------*/
-
 .newsTitleBar {
   	background-color:#333535 !important;
  }
