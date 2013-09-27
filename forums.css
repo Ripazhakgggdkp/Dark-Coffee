@@ -1,58 +1,35 @@
 /*------FORUMS------*/
+.forum_forum_1, .forum_forum_2, .forum_topic_1, .forum_topic_2 {
+	transition: background-color .10s ease-in;
+	-moz-transition: background-color .10s ease-in;
+	-webkit-transition: background-color .10s ease-in;
+}
+
+.forum_forum_1:hover, .forum_forum_2:hover, .forum_topic_1:hover, .forum_topic_2:hover {
+	background-color: #1D1F1F !important
+}
+
 .forum_forum_1 {
-    background-color: #302F2E ! important;
-    transition: background-color .10s ease-in;
-    -moz-transition: background-color .10s ease-in;
-    -webkit-transition: background-color .10s ease-in;
+	background-color: #302F2E ! important;
 }
 
 .forum_forum_2 {
-    background-color: #474644 ! important;
-    transition: background-color .10s ease-in;
-    -moz-transition: background-color .10s ease-in;
-    -webkit-transition: background-color .10s ease-in;
-}
-
-.forum_forum_1:hover {
-    background-color: #1D1F1F !important
-}
-
-.forum_forum_2:hover {
-    background-color: #1D1F1F !important
+	background-color: #474644 ! important;
 }
 
 .forum_topic_1 {
-    background-color: #302F2E ! important;
-    transition: background-color .10s ease-in;
-    -moz-transition: background-color .10s ease-in;
-    -webkit-transition: background-color .10s ease-in;
+	background-color: #302F2E ! important;
 }
 
 .forum_topic_2 {
-    background-color: #474644 ! important;
-    transition: background-color .10s ease-in;
-    -moz-transition: background-color .10s ease-in;
-    -webkit-transition: background-color .10s ease-in;
+	background-color: #474644 ! important;
 }
 
-.forum_topic_1:hover {
-    background-color: #1D1F1F !important
-}
-
-.forum_topic_2:hover {
-    background-color: #1D1F1F !important
-}
-
-.forum_post_1 td[width="*"] {
+.forum_post_1 td[width="*"], .forum_post_2 td[width="*"] {
 	text-align: justify !important;
-    padding-right: 10px !important;
+	padding-right: 10px !important;
 }
-
-.forum_post_2 td[width="*"] {
-	text-align: justify !important;
-    padding-right: 10px !important;
-}    
 
 .forum_top_bar {
-    padding-left: 5px !important;
+	padding-left: 5px !important;
 } 
