@@ -37,52 +37,43 @@ body {
     color: #FFF !important;
 }
 
-#personalNavContainer {
+#personalNavContainer, #personalContainer {
  	background-color:#333535 !important; 
-}
-  
-#personalContainer {
- 	background-color:#333535 !important;
 }
 
 #welcomeDataExtra {
 	padding-right: 5px !important;
 }
 
+.personalNavLink, .mainNavLink {
+	transition: background-color .10s ease-in;
+	-moz-transition: background-color .10s ease-in;
+	-webkit-transition: background-color .10s ease-in;
+}
+
+
 .personalNavLink {
-    background-color: #333535 ! important;
-    transition: background-color .10s ease-in;
-    -moz-transition: background-color .10s ease-in;
-    -webkit-transition: background-color .10s ease-in;
+	background-color: #333535 ! important;
 }
     
 .personalNavLink:hover {
-    background-color: #555 !important;
+	background-color: #555555 !important;
 }
 
 
-select {
+select, input {
 	font-family: 'Open Sans',Helvetica,"pragmatica-web",Arial,sans-serif !important;
 	background-color:#111111 !important;
 	padding-left: 5px !important;
 }
-
-input {
-	font-family: 'Open Sans',Helvetica,"pragmatica-web",Arial,sans-serif !important;
-	background-color:#111111 !important;
-	padding-left: 5px !important;
-}
-
 
 .mainNavLink {
-    background-color: #181C1C; ! important;
-    transition: background-color .10s ease-in;
-    -moz-transition: background-color .10s ease-in;
-    -webkit-transition: background-color .10s ease-in;
+	background-color: #181C1C; ! important;
+
 }
     
 .mainNavLink:hover {
-    background-color: #555 !important;
+	background-color: #555 !important;
 }
 
 #WzBoDy {
