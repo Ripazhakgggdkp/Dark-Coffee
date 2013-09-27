@@ -1,28 +1,14 @@
 /*------BADGES------*/
 
-.game_badge_item {
-    text-align: center ! important;
+.game_badge_item, .game_badge_item2 {
+	text-align: center ! important;
 	border: 2px outset #1D1F1F !important;
-    padding-left: 5px;
-    background-color: #333535; ! important;
-    transition: background-color .10s ease-in;
-    -moz-transition: background-color .10s ease-in;
-    -webkit-transition: background-color .10s ease-in;
+	padding-left: 5px;
+	background-color: #333535; ! important;
+	transition: background-color .10s ease-in;
+	-moz-transition: background-color .10s ease-in;
+	-webkit-transition: background-color .10s ease-in;
 }
-.game_badge_item:hover {
+.game_badge_item:hover, .game_badge_item2:hover {
     background-color: #1D1F1F !important;
 } 
-
-.game_badge_item2 {
-	border: 2px outset #00A651 !important;
-    border-radius: 5px;
-    padding-left: 5px;
-    background-color: #333535; ! important;
-    transition: background-color .10s ease-in;
-    -moz-transition: background-color .10s ease-in;
-    -webkit-transition: background-color .10s ease-in;
-}
-
-.game_badge_item2:hover {
-    background-color: #00A651 ! important;
-}
