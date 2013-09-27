@@ -3,7 +3,7 @@ Dark-Coffee
 
 Saving FtB from communism
 
-To install with Stylish:
+Installing with Stylish:
 --------
 
 1. Install Stylish if you haven't already done so.
@@ -14,7 +14,7 @@ To install with Stylish:
 
 Using this method, the style will be loaded in around half a second for every page.
 
-To install with Greasemonkey (Firefox) or Tampermonkey (Chrome):
+Installing with Greasemonkey (Firefox) or Tampermonkey (Chrome):
 --------
 
 1. Install Greasemonkey/Tampermonkey if you haven't already done so.
