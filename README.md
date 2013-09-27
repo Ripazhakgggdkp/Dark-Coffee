@@ -12,3 +12,11 @@ To install with Stylish
 3. Hit save, and you're done!
 
 Using this method, the style will be loaded in around half a second for every page.
+
+To install with Greasemonkey (firefox) or Tampermonkey (chrome)
+--------
+
+1. Install Greasemonkey/Tampermonkey if you haven't already done so
+2. Go to this page
+`http://userscripts.org/scripts/show/178684`
+3. Install the userscript
