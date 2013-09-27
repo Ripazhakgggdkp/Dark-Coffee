@@ -1,8 +1,7 @@
 /*------FRONT PAGE------*/
 .newsTitleBar, .featuredBox, .routineTitleBar {
   	background-color:#333535 !important;
- }
- 
+}
 
 .routineTitle {
 	padding-left: 5px !important;    
