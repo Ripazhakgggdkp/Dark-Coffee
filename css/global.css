@@ -78,3 +78,9 @@ select, input, textarea {
 #WzBoDy {
 	background-color:#222424 !important;
 }
+
+#WzBoDy, #WzTtDiV {
+	-webkit-border-radius: 5px 5px 5px 5px;
+	-moz-border-radius: 5px 5px 5px 5px;
+	border-radius: 5px 5px 5px 5px;
+}
