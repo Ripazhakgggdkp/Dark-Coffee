@@ -40,6 +40,14 @@ span[style="color:#00AADD;"] {
 	border: 0px !important;
 }
 
+.highscoreTypeSelectorBox_ON {
+	background-color:#2a353c !important;
+}
+  
+.highscoreTypeSelectorBox_OFF:hover {
+	background-color:#151a1e !important;
+}
+
 td[onclick="highscoreShow(2);"] {
 	-webkit-border-radius: 0px 0px 0px 5px;
 	-moz-border-radius: 0px 0px 0px 5px;
