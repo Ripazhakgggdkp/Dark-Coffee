@@ -5,6 +5,7 @@ Saving FtB from communism
 
 Installing with Stylish:
 --------
+#### This is currently the preferred method of enjoying Dark Coffee
 
 1. Install Stylish if you haven't already done so.
 2. Manage installed styles -> Write new style, then add this line:
@@ -16,6 +17,8 @@ Using this method, the style will be loaded in around half a second for every pa
 
 Installing with Greasemonkey (Firefox) or Tampermonkey (Chrome):
 --------
+###### Until theme picker functionality has been implemented, just load the CSS with Stylish
+###### In the mean time, this will serve as an alternative method to enjoy Dark Coffee
 
 1. Install Greasemonkey/Tampermonkey if you haven't already done so.
 2. Go to this page: http://userscripts.org/scripts/show/178684
