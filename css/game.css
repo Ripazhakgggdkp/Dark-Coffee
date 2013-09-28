@@ -43,6 +43,7 @@ span[style="color:#00AADD;"] {
 td[onclick="highscoreShow(0);"] {
 	-webkit-border-radius: 5px 0px 0px 0px;
 	-moz-border-radius: 5px 0px 0px 0px;
+	border-radius: 5px 0px 0px 0px;
 }
 
 td[onclick="highscoreShow(1);"] {
