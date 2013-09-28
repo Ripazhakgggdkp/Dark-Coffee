@@ -18,13 +18,12 @@
 	-moz-border-radius: 0px 0px 5px 5px;
 	border-radius: 0px 0px 5px 5px;
 	border: 0px none !important;
-
 }
  
-.game_badge_item img  {
+.game_badge_item[width="125"] img  {
 	border: 2px solid #1D1F1F !important;
 }
 
-.game_badge_item2 img {
+.game_badge_item2[width="125"] img {
 	border: 2px solid #00A651 !important;
 }
