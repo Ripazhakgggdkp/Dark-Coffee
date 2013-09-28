@@ -68,7 +68,7 @@ body {
 	background-color: #555555 !important;
 }
 
-select, input {
+select, input, textarea {
 	font-family: 'Open Sans',Helvetica,"pragmatica-web",Arial,sans-serif !important;
 	background-color:#111111 !important;
 	padding-left: 5px !important;
