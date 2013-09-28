@@ -19,3 +19,19 @@
 .highscoreBoxContainer {
 	background-color:#2a353c !important;
 }
+
+div[style^="background-color:#CC0000"] {
+	background-color:#da3b51 !important;
+}
+
+span[style="color:#CC0000;"] {
+	color:#da3b51 !important;
+}
+
+div[style^="background-color:#00AADD"] {
+	background-color:#8eb7c6 !important;
+}
+
+span[style="color:#00AADD;"] {
+	color:#8eb7c6 !important;
+}
