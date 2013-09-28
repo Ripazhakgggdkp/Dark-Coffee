@@ -23,3 +23,8 @@
 	padding: 0px !important;
 }
 	
+.breakNewsLine {
+	-webkit-border-radius: 0px 0px 5px 5px;
+	-moz-border-radius: 0px 0px 5px 5px;
+	border-radius: 0px 0px 5px 5px;  
+}
