@@ -35,3 +35,30 @@ div[style^="background-color:#00AADD"] {
 span[style="color:#00AADD;"] {
 	color:#8eb7c6 !important;
 }
+
+.highscoreSelectorBox {
+	border: 0px !important;
+}
+  
+td[onclick="highscoreShow(0);"] {
+	-webkit-border-radius: 5px 0px 0px 0px;
+	-moz-border-radius: 5px 0px 0px 0px;
+}
+
+td[onclick="highscoreShow(1);"] {
+	-webkit-border-radius: 0px 5px 0px 0px;
+	-moz-border-radius: 0px 5px 0px 0px;
+	border-radius: 0px 5px 0px 0px;
+}
+
+td[onclick="highscoreShow(2);"] {
+	-webkit-border-radius: 0px 0px 0px 5px;
+	-moz-border-radius: 0px 0px 0px 5px;
+	border-radius: 0px 0px 0px 5px;
+}
+
+td[onclick="highscoreShow(3);"] {
+	-webkit-border-radius: 0px 0px 5px 0px;
+	-moz-border-radius: 0px 0px 5px 0px;
+	border-radius: 0px 0px 5px 0px;
+}
