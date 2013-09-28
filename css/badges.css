@@ -20,10 +20,10 @@
 	border: 0px none !important;
 }
  
-.game_badge_item[width="125"] img  {
+.game_badge_item[width="125"] img[width="125"] {
 	border: 2px solid #1D1F1F !important;
 }
 
-.game_badge_item2[width="125"] img {
+.game_badge_item2[width="125"] img[width="125"] {
 	border: 2px solid #00A651 !important;
 }
