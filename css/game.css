@@ -39,18 +39,6 @@ span[style="color:#00AADD;"] {
 .highscoreSelectorBox, .highscoreSelectorBox_NA, .highscoreTypeSelectorBox_ON, .highscoreTypeSelectorBox_OFF {
 	border: 0px !important;
 }
-  
-td[onclick="highscoreShow(0);"] {
-	-webkit-border-radius: 5px 0px 0px 0px;
-	-moz-border-radius: 5px 0px 0px 0px;
-	border-radius: 5px 0px 0px 0px;
-}
-
-td[onclick="highscoreShow(1);"] {
-	-webkit-border-radius: 0px 5px 0px 0px;
-	-moz-border-radius: 0px 5px 0px 0px;
-	border-radius: 0px 5px 0px 0px;
-}
 
 td[onclick="highscoreShow(2);"] {
 	-webkit-border-radius: 0px 0px 0px 5px;
