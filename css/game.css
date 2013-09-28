@@ -36,7 +36,7 @@ span[style="color:#00AADD;"] {
 	color:#8eb7c6 !important;
 }
 
-.highscoreSelectorBox {
+.highscoreSelectorBox, .highscoreSelectorBox_NA {
 	border: 0px !important;
 }
   
