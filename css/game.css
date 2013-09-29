@@ -71,3 +71,25 @@ td[onclick="highscoreShow(3);"] {
 	-moz-border-radius: 0px 5px 0px 0px;
 	border-radius: 0px 5px 0px 0px; 
 }
+#charterCommentsInnerContainer {
+	overflow: auto;
+	width: inherit;
+	height: 100px;
+	text-align: justify !important;
+	padding-right: 10px !important;
+}
+#infoContainer {
+	float: left;
+	width: 200px;
+	height: 140px;
+	padding-right: 20px;
+	text-align: justify !important;
+}	
+
+#highscoreGlobalContainer {
+float: left;
+width: auto;
+padding-right: 40px;
+margin-top: 50px !important;
+}
+	
