@@ -17,7 +17,7 @@
 }
 
 .featuredDuration {
-	background-color:transparent !important;
+	background-color:rgba(51, 53, 53, 0.25) !important;
 }
 .personalNavLink {
 	padding: 0px !important;
