@@ -21,6 +21,10 @@
 	src: local('Open Sans Light Italic'), local('OpenSansLight-Italic'), url(http://themes.googleusercontent.com/static/fonts/opensans/v6/PRmiXeptR36kaC0GEAetxh_xHqYgAV9Bl_ZQbYUxnQU.woff) format('woff');
 }
 
+div[style="position:absolute;bottom:0px;left:240px;text-align:left;z-index:0;"] {
+	padding-left: 60px !important;
+}
+
 #logoContainer img {
 	display: inline !important;
 	-moz-box-sizing: border-box !important;
